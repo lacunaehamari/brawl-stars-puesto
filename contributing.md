@@ -157,6 +157,6 @@ nada" cuando en realidad nunca reinició.
 
 ---
 
-*Brawl Stars · Actualizado 2026-10-27 · Compartido bajo licencia MIT*
+*Brawl Stars · Actualizado 2026-10-28 · Compartido bajo licencia MIT*
 
-<!-- rev 2026-10-27 -->
+<!-- rev 2026-10-28 -->
